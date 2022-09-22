@@ -7,7 +7,8 @@ Gym Management system is an application for the admin of the gym to keep their c
 This project is made by using following :-
 
 * Java Programing Language
-* NetBeans IDE 8.2 for frontend gui
+* Java Swing for GUI
+* NetBeans IDE 8.2 
 * MySQL for backend
 
 
