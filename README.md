@@ -11,35 +11,10 @@ This project is made by using following :-
 * MySQL for backend
 
 
-
-
-
 ## Authors
 
 - [@Amit-Saha98](https://github.com/Amit-Saha98)
 
-
-## Screenshots
-
-
-# Gym Management System
-
-Gym Management system is an application for the admin of the gym to keep their customer's record up to date.
-
-# Implimentaion
-This project is made by using following :-
-
-* Java Programing Language
-* NetBeans IDE 8.2 for frontend gui
-* MySQL for backend
-
-
-
-
-
-## Authors
-
-- [@Amit-Saha98](https://github.com/Amit-Saha98)
 
 
 ## Screenshots
